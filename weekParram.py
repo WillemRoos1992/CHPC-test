@@ -101,3 +101,4 @@ if overlay == 1:
 #
 #	plt.show()
 
+print("Data filtered with moving filter")
